@@ -10,9 +10,9 @@ Para compilar y ejecutar el proyecto:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/TuUsuario/Ocultamiento_de_Datos.git](https://github.com/TuUsuario/Ocultamiento_de_Datos.git)
+    git clone git@github.com:JoacoWn/Ocultamiento_de_Datos.git
     cd Ocultamiento_de_Datos
-    # Si estás en una rama específica, cámbiate a ella:
+    # Si estás en una rama específica, cámbiate a ella:git@github.com:JoacoWn/Ocultamiento_de_Datos.git
     git checkout develop # o test
     ```
 2.  **Compilar y Ejecutar:**
